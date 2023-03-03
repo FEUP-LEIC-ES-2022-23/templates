@@ -21,8 +21,27 @@ To learn more about how to write a good product vision, please see also:
 
 ### Main Features
 Indicate an  initial/tentative list of high-level features - high-level capabilities or desired services of the system that are necessary to deliver benefits to the users (cf. RUP).
- - Feature 1 - Short description
- - Feature 2 - Short description
+ - Habit tracking: The ability to add, edit, and delete habits that users want to start or break.
+
+ - Progress tracking: The ability to track habit completion over time and view progress in a visual format.
+
+ - Personalization: The ability to customize the app's appearance and themes.
+
+ - Rewards system: The ability to offer virtual rewards and badges for consistent habit completion.
+
+ - Data privacy: The ability to keep user data safe and secure.
+
+ - Habit insights: Provide users with data and insights on their habits, such as the number of times they've completed a habit, their success rate, and trends over time.
+
+ - Feedback mechanism: The ability to provide feedback to users on their progress and offer suggestions for improvement.
+
+ - Social sharing: The ability to share progress and achievements with friends and family on social media.
+
+ - Habit tracking streaks: Add a feature where users can track their habits for a certain number of consecutive days, and earn rewards for meeting their goals.
+
+ - Habit challenges: Offer users the option to participate in challenges that are focused on specific habits. This could be a great way to build momentum and make progress towards a larger goal.
+
+ - Personalized reminders: Allow users to set reminders that are tailored to their specific habits and preferences. For example, users could choose to receive reminders at certain times of the day, or when they reach a certain location.
 ...
 
 ### Assumptions and dependencies
