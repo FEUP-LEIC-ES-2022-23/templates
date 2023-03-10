@@ -1,32 +1,54 @@
 
 ## Product Vision
 
-### Vision Statement
+# Grupo 5
 
-Start by defining a clear and concise vision for your app, to help members of the team, contributors, and users into focusing their often disparate views into a concise, visual, and short textual form. It provides a "high concept" of the product for marketers, developers, and managers.
+## Members
 
-A product vision describes the essential of the product and sets the direction to where a product is headed, and what the product will deliver in the future. 
-
-**We favor a catchy and concise statement, ideally one sentence.**
-
-We suggest you use the product vision template described in the following link:
-* [How To Create A Convincing Product Vision To Guide Your Team, by uxstudioteam.com](https://uxstudioteam.com/ux-blog/product-vision/)
-
-To learn more about how to write a good product vision, please see also:
-* [Product Management: Product Vision, by ProductPlan](https://www.productplan.com/glossary/product-vision/)
-* [Vision, by scrumbook.org](http://scrumbook.org/value-stream/vision.html)
-* [How to write a vision, by dummies.com](https://www.dummies.com/business/marketing/branding/how-to-write-vision-and-mission-statements-for-your-brand/)
-* [20 Inspiring Vision Statement Examples (2019 Updated), by lifehack.org](https://www.lifehack.org/articles/work/20-sample-vision-statement-for-the-new-startup.html)
+Nuno Ramos up201906051  
+David Peixoto up201906050  
+Carolina Costa up202108685  
+Nuno Penafort up202008405
 
 
-### Main Features
-Indicate an  initial/tentative list of high-level features - high-level capabilities or desired services of the system that are necessary to deliver benefits to the users (cf. RUP).
- - Feature XPTO - Short description
- - Feature ABCD - Short description
-...
+# TasteBudz
 
-### Assumptions and dependencies
-Indicate an  initial/tentative list of assumptions and dependencies 
+## Vision Stament
 
-- Student timetable from sigarra
-- 
+Where taste meets technology, where every bite counts and every recommendation is an adventure in taste exploration.
+
+## Main Features
+
+- Loyalty programs - restaurants can offer loyalty rewards to frequent customers, encouraging repeat business.
+
+- Customizable search filters - users can customize search filters based on their individual preferences, such as distance, price, rating, dietary requirements and cuisine.
+
+- User profiles - users can create a profile that tracks their restaurant history, preferences, and reviews.
+History of Dining - A list of restaurants the user has been to before.
+
+- Restaurant profiles - each restaurant has a dedicated profile that displays its location, hours, menu, reviews, and other relevant information.
+
+- Personalized Dining Assistant - Chatbot and AI-powered virtual assistant can suggest restaurants and dishes based on mood, time of day, weather, user preferences, history or other contextual factors.
+
+- Ratings and reviews - users can rate and review restaurants based on their experiences, providing valuable feedback for other users.
+
+- Social media integration - users can connect with friends, share their restaurant recommendations and make new foodie buddies.
+
+- Loyalty programs - this program rewards active app users with exclusive benefits, such as discounts, free meals, and early access to new restaurants and events.
+
+- Push notifications - users receive alerts about new restaurant openings, special deals, and other relevant updates.
+
+- Map integration - the app integrates with maps to provide users with directions to the restaurants.
+
+- Restaurant recommendations - the app can recommend specific dishes on the menu based on user preferences and past reviews.
+
+- Curated collections - the app can provide curated collections of restaurants based on specific themes or occasions, such as date night, brunch spots, family-friendly restaurants, etc.
+
+- Tastewish - users are able to create a personalized list of restaurants they wish to try.
+
+- Foodie Chat - In-app messaging and chat functionality that allows users to communicate with friends and other food lovers.
+
+## Required API's
+
+- Google Maps
+- Google Gmail
